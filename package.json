@@ -1,6 +1,6 @@
 {
-  "name": "calculate-size",
-  "version": "1.1.1",
+  "name": "calculate-text-size",
+  "version": "2.0.0",
   "description": "Calculate the pixel size of a string",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/schickling/calculate-size.git"
+    "url": "https://github.com/KQLYYY/calculate-text-size"
   },
   "keywords": [
     "font",
