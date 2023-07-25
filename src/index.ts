@@ -45,7 +45,7 @@ function createDummyElement(text: string, options: Options): HTMLElement {
 }
 
 function destroyElement(element: HTMLElement): void {
-  element.parentNode.removeChild(element)
+  element?.parentNode?.removeChild(element)
 }
 
 const cache = {}
